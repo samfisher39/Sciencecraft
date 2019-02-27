@@ -1,0 +1,10 @@
+itemGroup.sciencecraft.tabScienceCraft=Science Craft
+
+item.sciencecraft.neutronPickaxe.name=Neutron Pickaxe
+item.sciencecraft.electronPickaxe.name=Electron Pickaxe
+item.sciencecraft.protonPickaxe.name=Proton Pickaxe
+
+item.sciencecraft.itemNeutron.name=Neutron
+item.sciencecraft.itemElectron.name=Electron
+item.sciencecraft.itemProton.name=Proton
+item.sciencecraft.itemSuperMagnet.name=Super Magnet
